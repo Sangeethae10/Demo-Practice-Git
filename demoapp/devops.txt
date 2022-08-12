@@ -1,3 +1,0 @@
-Sangeetha
-cat devops.xt
-clear
